@@ -17,9 +17,9 @@ define(['playbackManager', 'skinManager', 'userSettings', 'pluginManager', 'brow
 
         var self = this;
 
-        self.name = 'Default Skin';
+        self.name = 'M0nty Skin';
         self.type = 'skin';
-        self.id = 'defaultskin';
+        self.id = 'm0ntyskin';
 
         var clockInterval;
         self.load = function () {
