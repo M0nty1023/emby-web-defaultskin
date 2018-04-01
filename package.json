@@ -1,10 +1,10 @@
 {
-    "name": "emby.defaultskin",
-    "displayName": "Default Skin",
+    "name": "emby.m0ntyskin",
+    "displayName": "m0nty Skin",
     "version": "1.0.0",
-    "description": "The default Emby skin.",
+    "description": "The M0nty Emby skin.",
     "plugin": "plugin.js",
-    "homepage": "https://github.com/MediaBrowser/emby-web-defaultskin",
+    "homepage": "https://github.com/M0nty1023/emby-web-defaultskin",
     "thumb": "",
     "backdrop": ""
 }
